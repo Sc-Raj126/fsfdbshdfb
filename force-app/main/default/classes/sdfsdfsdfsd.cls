@@ -7,7 +7,7 @@ public with sharing class sdfsdfsdfsd {
      */
     public void accountowner() {
         Account acclist = new Account();
-        acclist.Name = 'newsc1';
+        acclist.Name = 'newsc12';
         insert acclist;
     }
 }
